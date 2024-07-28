@@ -1,5 +1,5 @@
 # Disease_Prediction_System
-This repp contains project on Disease Prediction  System done using Data Mining Techniques
+This rep0 contains project on Disease Prediction  System done using Data Mining Techniques
 
 This Project generally predicts the disease on the basis of user input symptoms, where it does preprocessing on the symptoms entered and then predicts using data mining technique - Logistic Regression.
 
